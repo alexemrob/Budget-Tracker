@@ -23,6 +23,6 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ## Questions
-<br>[Visit my repository!](https://www.github.com/alexemrob)
+[Visit my repository!](https://www.github.com/alexemrob)
 <br>
 For any further questions email me at AlexEmRob@gmail.com
