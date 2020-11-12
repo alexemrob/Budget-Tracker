@@ -12,7 +12,7 @@ When brought back online:
   Offline entries should be added to tracker.</li></ul>
   
 <br>
-<a href="">Click to Visit My Page!</a><br><br>
+<a href="https://dry-coast-28364.herokuapp.com/">Click to Visit My Page!</a><br><br>
 <img src="./public/budget.png" alt="app screenshot">
 <br><br>
 
