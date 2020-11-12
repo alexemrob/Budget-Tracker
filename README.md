@@ -13,7 +13,7 @@ When brought back online:
   
 <br>
 <a href="">Click to Visit My Page!</a><br><br>
-<img src="./public/assets/img/burgerSS.png" alt="burger browser screenshot">
+<img src="./public/budget.png" alt="app screenshot">
 <br><br>
 
 ## User Story
